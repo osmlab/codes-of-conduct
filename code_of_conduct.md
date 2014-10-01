@@ -4,9 +4,10 @@
 ###In general:
 
 * Be nice: Be courteous, respectful and polite to fellow community members: no regional, racial, gender, or other abuse will be tolerated. We like nice people way better than mean ones!
-* Encourage diversity and participation: Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community.
+* Encourage diversity and participation: Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community. Do your best to listen to other points of view.
 * Keep it legal: Basically, don’t get anyone in trouble. Share only content that you own, do not share private or sensitive information, and don’t break the law.
 * Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Also remember that nobody likes spam.
+* Disagreements happen: You may disagree with someone about something, or you may receive a "no" to a request. Even if you're frustrated, be sure you are still following the points above while appealing in an appropriate way.
 
 ####Guideline Violations — 3 Strikes Method
 
@@ -64,7 +65,7 @@ You can find a current list of all of the OSM mailing lists here: https://lists.
 
 ###About this Code of Conduct:
 
-The intention of this CoC is to help provide a safe, welcoming place for constructive discussion about OpenStreetMap and OpenStreetMap-related issues. It was forked by [@pdxmele](http://twitter.com/pdxmele), [@KathleenLD](http://twitter.com/KathleenLD), and [@iandees](http://twitter.com/iandees) from the [Puppet Community Guidelines](https://docs.puppetlabs.com/community/community_guidelines.html), which itself gives credit to the Fedora Mailing List Guidelines, 01.org, and meego.com.
+The intention of this CoC is to help provide a safe, welcoming place for constructive discussion about OpenStreetMap and OpenStreetMap-related issues. It was forked by [@pdxmele](http://twitter.com/pdxmele), [@KathleenLD](http://twitter.com/KathleenLD), [@iandees](http://twitter.com/iandees), and [@mvexel](https://twitter.com/mvexel) from the [Puppet Community Guidelines](https://docs.puppetlabs.com/community/community_guidelines.html), which itself gives credit to the Fedora Mailing List Guidelines, 01.org, and meego.com.
 
 If you are an OSM mailing list moderator and you would like to adopt this Code of Conduct for your list, all you need to do is:
 
