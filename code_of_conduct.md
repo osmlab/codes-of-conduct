@@ -31,9 +31,6 @@ Remember, when you post to a community mailing list, you are, in effect, asking 
 ####OpenStreetMap Mailing Lists
 You can find a current list of all of the OSM mailing lists here: https://lists.openstreetmap.org/listinfo
 
-####Search First
-* Believe it or not, your question might not be new. Do a thorough search of the mailing list archives to see if it has been answered before.
-
 ####Stay on Topic
 * Review a few posts from relevant lists before deciding where to post your question.
 * Recruiters are not permitted to post jobs to the mailing list. However, if you are an active community member and you are personally hiring more people to work on OpenStreetMap, you may post relevant job descriptions.
