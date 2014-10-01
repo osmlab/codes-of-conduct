@@ -31,9 +31,6 @@ Remember, when you post to a community mailing list, you are, in effect, asking 
 ####OpenStreetMap Mailing Lists
 You can find a current list of all of the OSM mailing lists here: https://lists.openstreetmap.org/listinfo
 
-####Search First
-* Believe it or not, your question might not be new. Do a thorough search of the mailing list archives to see if it has been answered before.
-
 ####Stay on Topic
 * Review a few posts from relevant lists before deciding where to post your question.
 * Recruiters are not permitted to post jobs to the mailing list. However, if you are an active community member and you are personally hiring more people to work on OpenStreetMap, you may post relevant job descriptions.
@@ -48,9 +45,7 @@ You can find a current list of all of the OSM mailing lists here: https://lists.
 * Avoid excessively long log output (select only the most relevant lines, or place the log on a website or in a pastebin, instead if the log messages are very long).
 * Don’t excessively quote previous messages in the thread (trim the quoted text down to only the most recent/relevant messages).
 
-####Use Proper Posting Style
-* Please avoid using HTML or Rich Text: Set your mailer to send only plain text messages to avoid getting caught in spam filters and avoid irritating people who have disabled these types of formats.
-* Do not “top post”. Use interleaved posting where possible: Bottom, interleaved posting is replying to the relevant parts of the previous correspondence just below the block(s) of sentences. For a comment to another block of sentences of the same quoted text, you should move below that relevant block again. Do not reply below the whole of the quoted text. Also, remove any irrelevant text.
+####More Posting Tips
 * Use links: Please provide URLs to articles and documents wherever possible. Avoid cutting and pasting the full content, especially considering the fact that not everyone may be interested.
 * Don’t include large attached files: Instead of including large attachments, please upload your file to a server and post a link to the file from your email message.
 
