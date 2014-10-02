@@ -60,6 +60,7 @@ You can find a current list of all of the OSM mailing lists here: https://lists.
 ####Recipients
 * Always reply to the mailing list (not the individual) when answering questions. In many cases, one person will post the question and several others will be silently waiting to see the answer on the list. This also helps avoid repeat questions because others can search the mailing list to get answers.
 * PuAlways group-reply to a message. Some of the email recipients might not be subscribed, might have turned off email delivery, or may read list messages with lower priority than messages addressed to them directly. For the same reasons, it is advisable to add relevant people to the recipient list explicitly.
+* No talking behind back. Do not highjack specific topics to other channels (twitter, facebook, odnoklassniki, twoo etc). Involved people may not see or notice it. If this is unavoidable, or someone else has done it, send a notice to the email list, and if this is not possible then at least relevant people separately with direct emails.
 
 --
 
