@@ -3,10 +3,32 @@
 
 ###In general:
 
-* Be nice: Be courteous, respectful and polite to fellow community members: no regional, racial, gender, or other abuse will be tolerated. We like nice people way better than mean ones!
+* Be nice: Be courteous, respectful and polite to fellow community members: no form of harassment will be tolerated. We like nice people way better than mean ones!
 * Encourage diversity and participation: Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community.
 * Keep it legal: Basically, don’t get anyone in trouble. Share only content that you own, do not share private or sensitive information, and don’t break the law.
 * Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Also remember that nobody likes spam.
+
+####What is 'Harassment'?
+
+Harassment includes:
+
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
+* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
+* Deliberate misgendering or use of ‘dead’ or rejected names
+* Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate
+* Simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
+* Threats of violence
+* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
+* Deliberate intimidation
+* Cyberstalking
+* Logging online activity for harassment purposes
+* Sustained disruption of discussion
+* Sexual attention
+* Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+* Continued one-on-one communication after requests to cease
+* Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other  members or other vulnerable people from intentional abuse
+* Publication of non-harassing private communication
+
 
 ####Guideline Violations — 3 Strikes Method
 
