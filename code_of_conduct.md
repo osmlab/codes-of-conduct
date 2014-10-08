@@ -24,7 +24,7 @@ Harassment includes:
 * Cyberstalking
 * Logging online activity for harassment purposes
 * Sustained disruption of discussion
-* Sexual attention
+* Unwelcome sexual attention
 * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 * Continued one-on-one communication after requests to cease
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other  members or other vulnerable people from intentional abuse
