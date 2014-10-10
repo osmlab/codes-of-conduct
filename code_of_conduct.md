@@ -9,6 +9,22 @@
 * Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Also remember that nobody likes spam.
 * Disagreements happen: You may disagree with someone about something, or you may receive a "no" to a request. Even if you're frustrated, be sure you are still following the points above while appealing in an appropriate way.
 
+####Guideline Violations — 3 Strikes Method
+
+The point of this section is not to find opportunities to punish people, but we do need a fair way to deal with people who make our community suck.
+
+1. **First occurrence**: We’ll give you a friendly, but public reminder that the behavior is inappropriate according to our guidelines.
+2. **Second occurrence**: We will send you a private message with a warning that any additional violations will result in removal from the community.
+3. **Third occurrence**: Depending on the violation, we may need to ban you from the mailing list.
+
+**Notes**:
+* Obvious spammers are banned on first occurrence. If we don’t do this, we’ll have spam all over the place.
+* Violations are forgiven after 6 months of good behavior, and we won’t hold a grudge. However, *if you commit a 4th violation, you may be banned permanently*.
+* People who are committing minor formatting / style infractions will get some education, rather than hammering them in the 3 strikes process.
+* Extreme violations of a threatening, abusive, destructive or illegal nature will be addressed immediately and are not subject to 3 strikes.
+
+**Contact [MODERATOR NAME(S) HERE] to report abuse or appeal violations.** In the case of appeals, we know that mistakes happen, and we’ll work with you to come up with a fair solution if there has been a misunderstanding.
+
 ####What is 'Harassment'?
 
 Harassment includes:
@@ -30,22 +46,6 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other  members or other vulnerable people from intentional abuse
 * Publication of non-harassing private communication
 
-
-####Guideline Violations — 3 Strikes Method
-
-The point of this section is not to find opportunities to punish people, but we do need a fair way to deal with people who make our community suck.
-
-1. **First occurrence**: We’ll give you a friendly, but public reminder that the behavior is inappropriate according to our guidelines.
-2. **Second occurrence**: We will send you a private message with a warning that any additional violations will result in removal from the community.
-3. **Third occurrence**: Depending on the violation, we may need to ban you from the mailing list.
-
-**Notes**:
-* Obvious spammers are banned on first occurrence. If we don’t do this, we’ll have spam all over the place.
-* Violations are forgiven after 6 months of good behavior, and we won’t hold a grudge. However, *if you commit a 4th violation, you may be banned permanently*.
-* People who are committing minor formatting / style infractions will get some education, rather than hammering them in the 3 strikes process.
-* Extreme violations of a threatening, abusive, destructive or illegal nature will be addressed immediately and are not subject to 3 strikes.
-
-**Contact [MODERATOR NAME(S) HERE] to report abuse or appeal violations.** In the case of appeals, we know that mistakes happen, and we’ll work with you to come up with a fair solution if there has been a misunderstanding.
 
 ###Thoughtful mailing list behavior:
 
