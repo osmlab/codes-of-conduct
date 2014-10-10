@@ -3,7 +3,7 @@
 
 ###In general:
 
-* Be nice: Be courteous, respectful and polite to fellow community members: no form of harassment will be tolerated. We like nice people way better than mean ones!
+* Be nice: Be courteous, respectful and polite to fellow community members: no harassment will be tolerated. We like nice people way better than mean ones!
 * Encourage diversity and participation: Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community. Do your best to listen to other points of view.
 * Keep it legal: Basically, don’t get anyone in trouble. Share only content that you own, do not share private or sensitive information, and don’t break the law.
 * Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Also remember that nobody likes spam.
