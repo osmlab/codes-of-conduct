@@ -3,11 +3,27 @@
 
 ###In general:
 
-* Be nice: Be courteous, respectful and polite to fellow community members: no form of harassment will be tolerated. We like nice people way better than mean ones!
+* Be nice: Be courteous, respectful and polite to fellow community members: no harassment will be tolerated. We like nice people way better than mean ones!
 * Encourage diversity and participation: Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community. Do your best to listen to other points of view.
 * Keep it legal: Basically, don’t get anyone in trouble. Share only content that you own, do not share private or sensitive information, and don’t break the law.
 * Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Also remember that nobody likes spam.
 * Disagreements happen: You may disagree with someone about something, or you may receive a "no" to a request. Even if you're frustrated, be sure you are still following the points above while appealing in an appropriate way.
+
+####Guideline Violations — 3 Strikes Method
+
+The point of this section is not to find opportunities to punish people, but we do need a fair way to deal with people who make our community suck.
+
+1. **First occurrence**: We’ll give you a friendly, but public reminder that the behavior is inappropriate according to our guidelines.
+2. **Second occurrence**: We will send you a private message with a warning that any additional violations will result in removal from the community.
+3. **Third occurrence**: Depending on the violation, we may need to ban you from the mailing list.
+
+**Notes**:
+* Obvious spammers are banned on first occurrence. If we don’t do this, we’ll have spam all over the place.
+* Violations are forgiven after 6 months of good behavior, and we won’t hold a grudge. However, *if you commit a 4th violation, you may be banned permanently*.
+* People who are committing minor formatting / style infractions will get some education, rather than hammering them in the 3 strikes process.
+* Extreme violations of a threatening, abusive, destructive or illegal nature will be addressed immediately and are not subject to 3 strikes.
+
+**Contact [MODERATOR NAME(S) HERE] to report abuse or appeal violations.** In the case of appeals, we know that mistakes happen, and we’ll work with you to come up with a fair solution if there has been a misunderstanding.
 
 ####What is 'Harassment'?
 
@@ -30,22 +46,6 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other  members or other vulnerable people from intentional abuse
 * Publication of non-harassing private communication
 
-
-####Guideline Violations — 3 Strikes Method
-
-The point of this section is not to find opportunities to punish people, but we do need a fair way to deal with people who make our community suck.
-
-1. **First occurrence**: We’ll give you a friendly, but public reminder that the behavior is inappropriate according to our guidelines.
-2. **Second occurrence**: We will send you a private message with a warning that any additional violations will result in removal from the community.
-3. **Third occurrence**: Depending on the violation, we may need to ban you from the mailing list.
-
-**Notes**:
-* Obvious spammers are banned on first occurrence. If we don’t do this, we’ll have spam all over the place.
-* Violations are forgiven after 6 months of good behavior, and we won’t hold a grudge. However, *if you commit a 4th violation, you may be banned permanently*.
-* People who are committing minor formatting / style infractions will get some education, rather than hammering them in the 3 strikes process.
-* Extreme violations of a threatening, abusive, destructive or illegal nature will be addressed immediately and are not subject to 3 strikes.
-
-**Contact [MODERATOR NAME(S) HERE] to report abuse or appeal violations.** In the case of appeals, we know that mistakes happen, and we’ll work with you to come up with a fair solution if there has been a misunderstanding.
 
 ###Thoughtful mailing list behavior:
 
@@ -87,7 +87,7 @@ You can find a current list of all of the OSM mailing lists here: https://lists.
 
 ###About this Code of Conduct:
 
-The intention of this CoC is to help provide a safe, welcoming place for constructive discussion about OpenStreetMap and OpenStreetMap-related issues. It was forked by [@pdxmele](http://twitter.com/pdxmele), [@KathleenLD](http://twitter.com/KathleenLD), [@iandees](http://twitter.com/iandees), and [@mvexel](https://twitter.com/mvexel) from the [Puppet Community Guidelines](https://docs.puppetlabs.com/community/community_guidelines.html), which itself gives credit to the Fedora Mailing List Guidelines, 01.org, and meego.com.
+The intention of this CoC is to help provide a safe, welcoming place for constructive discussion about OpenStreetMap and OpenStreetMap-related issues. It was forked by [@pdxmele](http://twitter.com/pdxmele), [@KathleenLD](http://twitter.com/KathleenLD), [@iandees](http://twitter.com/iandees), and [@mvexel](https://twitter.com/mvexel) from the [Puppet Community Guidelines](https://docs.puppetlabs.com/community/community_guidelines.html), which itself gives credit to the Fedora Mailing List Guidelines, 01.org, and meego.com. We also used some elements from  [GeekFeminism](http://geekfeminism.org/about/code-of-conduct/).
 
 If you are an OSM mailing list moderator and you would like to adopt this Code of Conduct for your list, all you need to do is:
 
