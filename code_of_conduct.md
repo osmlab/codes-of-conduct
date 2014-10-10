@@ -87,7 +87,7 @@ You can find a current list of all of the OSM mailing lists here: https://lists.
 
 ###About this Code of Conduct:
 
-The intention of this CoC is to help provide a safe, welcoming place for constructive discussion about OpenStreetMap and OpenStreetMap-related issues. It was forked by [@pdxmele](http://twitter.com/pdxmele), [@KathleenLD](http://twitter.com/KathleenLD), [@iandees](http://twitter.com/iandees), and [@mvexel](https://twitter.com/mvexel) from the [Puppet Community Guidelines](https://docs.puppetlabs.com/community/community_guidelines.html), which itself gives credit to the Fedora Mailing List Guidelines, 01.org, and meego.com.
+The intention of this CoC is to help provide a safe, welcoming place for constructive discussion about OpenStreetMap and OpenStreetMap-related issues. It was forked by [@pdxmele](http://twitter.com/pdxmele), [@KathleenLD](http://twitter.com/KathleenLD), [@iandees](http://twitter.com/iandees), and [@mvexel](https://twitter.com/mvexel) from the [Puppet Community Guidelines](https://docs.puppetlabs.com/community/community_guidelines.html), which itself gives credit to the Fedora Mailing List Guidelines, 01.org, and meego.com. We also used some elements from  [GeekFeminism](http://geekfeminism.org/about/code-of-conduct/).
 
 If you are an OSM mailing list moderator and you would like to adopt this Code of Conduct for your list, all you need to do is:
 
