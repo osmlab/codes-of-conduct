@@ -3,7 +3,7 @@
 
 ###In general:
 
-* Be nice: Be courteous, respectful and polite to fellow community members: no harassment will be tolerated. We like nice people way better than mean ones!
+* Be nice: Be courteous, respectful and polite to fellow community members. No harassment will be tolerated. We like nice people way better than mean ones!
 * Encourage diversity and participation: Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community. Do your best to listen to other points of view.
 * Keep it legal: Basically, don’t get anyone in trouble. Share only content that you own, do not share private or sensitive information, and don’t break the law.
 * Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Also remember that nobody likes spam.
@@ -13,7 +13,7 @@
 
 The point of this section is not to find opportunities to punish people, but we do need a fair way to deal with people who make our community suck.
 
-1. **First occurrence**: We’ll give you a friendly, but public reminder that the behavior is inappropriate according to our guidelines.
+1. **First occurrence**: A moderator will remind the mailing list as a whole of this code of conduct and the specific inappropriate behavior.
 2. **Second occurrence**: We will send you a private message with a warning that any additional violations will result in removal from the community.
 3. **Third occurrence**: Depending on the violation, we may need to ban you from the mailing list.
 
@@ -41,9 +41,9 @@ Harassment includes:
 * Logging online activity for harassment purposes
 * Sustained disruption of discussion
 * Unwelcome sexual attention
-* Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+* Pattern of inappropriate social contact, such as requesting or assuming inappropriate levels of intimacy with others
 * Continued one-on-one communication after requests to cease
-* Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other  members or other vulnerable people from intentional abuse
+* Deliberate “outing” of any aspect of a person’s identity without their consent, except as necessary to protect other  members or other vulnerable people from intentional abuse
 * Publication of non-harassing private communication
 
 
