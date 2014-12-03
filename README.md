@@ -1,4 +1,4 @@
-CoC-mailing-lists
-=================
+Codes of Conduct
+================
 
-Suggested Code of Conduct for OSM Mailing Lists
+Suggested Codes of Conduct for OpenStreetMap.
