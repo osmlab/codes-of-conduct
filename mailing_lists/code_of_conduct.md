@@ -19,7 +19,7 @@ The point of this section is not to find opportunities to punish people, but we 
 
 **Notes**:
 * Obvious spammers are banned on first occurrence. If we don’t do this, we’ll have spam all over the place.
-* Violations are forgiven after 6 months of good behavior, and we won’t hold a grudge. However, *if you commit a 4th violation, you may be banned permanently*.
+* Violations are forgiven after 6 months of good behavior, and we won’t hold a grudge. However, *if you commit a 4th violation, you may be banned indefinitely*.
 * People who are committing minor formatting / style infractions will get some education, rather than hammering them in the 3 strikes process.
 * Extreme violations of a threatening, abusive, destructive or illegal nature will be addressed immediately and are not subject to 3 strikes.
 
