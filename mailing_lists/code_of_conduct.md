@@ -1,7 +1,7 @@
-#Suggested Code of Conduct for OpenStreetMap Mailing Lists
+# Suggested Code of Conduct for OpenStreetMap Mailing Lists
 
 
-###In general:
+### In general:
 
 * Be nice: Be courteous, respectful and polite to fellow community members. No harassment will be tolerated. We like nice people way better than mean ones!
 * Encourage diversity and participation: Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community. Do your best to listen to other points of view.
@@ -9,7 +9,7 @@
 * Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Also remember that nobody likes spam.
 * Disagreements happen: You may disagree with someone about something, or you may receive a "no" to a request. Even if you're frustrated, be sure you are still following the points above while appealing in an appropriate way.
 
-####Guideline Violations — 3 Strikes Method
+#### Guideline Violations — 3 Strikes Method
 
 The point of this section is not to find opportunities to punish people, but we do need a fair way to deal with people who make our community suck.
 
@@ -47,45 +47,45 @@ Harassment includes:
 * Publication of non-harassing private communication
 
 
-###Thoughtful mailing list behavior:
+### Thoughtful mailing list behavior:
 
 Remember, when you post to a community mailing list, you are, in effect, asking a large group of people to give you some of their time and attention — to download your message, read it, and potentially reply to it. It is simply polite to make sure your message is relevant to as many of the people receiving the message as possible. Many of the guidelines below stem from this basic principle.
 
-####OpenStreetMap Mailing Lists
+#### OpenStreetMap Mailing Lists
 You can find a current list of all of the OSM mailing lists here: https://lists.openstreetmap.org/listinfo
 
-####Stay on Topic
+#### Stay on Topic
 * Review a few posts from relevant lists before deciding where to post your question.
 * Recruiters are not permitted to post jobs to the mailing list. However, if you are an active community member and you are personally hiring more people to work on OpenStreetMap, you may post relevant job descriptions.
 
-####Avoid Cross-Posting
+#### Avoid Cross-Posting
 * If you have a question, please pick the list that is most relevant to your topic and post the question only on that list.
 * Only important community announcements (like conferences, new releases, etc.) should be posted to multiple lists at the same time. When you post to multiple lists, please specify which one list people should reply to with questions and put the other lists in the bcc.
 
-####Keep It Short
+#### Keep It Short
 * Remember that possibly hundreds of copies of your message will exist in mailboxes:
 * Keep your messages as short as possible.
 * Avoid excessively long log output (select only the most relevant lines, or place the log on a website or in a pastebin, instead if the log messages are very long).
 * Don’t excessively quote previous messages in the thread (trim the quoted text down to only the most recent/relevant messages).
 
-####More Posting Tips
+#### More Posting Tips
 * Use links: Please provide URLs to articles and documents wherever possible. Avoid cutting and pasting the full content, especially considering the fact that not everyone may be interested.
 * Don’t include large attached files: Instead of including large attachments, please upload your file to a server and post a link to the file from your email message.
 
 ####Do Not Hijack Threads
 * Post new questions or new topics as new threads (new email message). Please do not reply to a random thread with a new question or start an unrelated topic of conversation in an existing thread. This creates confusion and makes it much less likely that you will get a response.
 
-####Subscribers Only
+#### Subscribers Only
 * Only subscribers can post to our mailing lists. If you would like to contribute to this mailing list, we think it is only fair that you be a subscriber. Note: If you want to participate only occasionally, you can subscribe to a list and set your email options to digest or no mail and read the web archives when you want to catch up.
 * To reduce spam, we may moderate posts from new mailing list users. If your message doesn’t appear right away, please be patient and give us a little time to respond to the list moderation requests.
 
-####Recipients
+#### Recipients
 * Always reply to the mailing list (not the individual) when answering questions. In many cases, one person will post the question and several others will be silently waiting to see the answer on the list. This also helps avoid repeat questions because others can search the mailing list to get answers.
 * Always group-reply to a message. Some of the email recipients might not be subscribed, might have turned off email delivery, or may read list messages with lower priority than messages addressed to them directly. For the same reasons, it is advisable to add relevant people to the recipient list explicitly.
 
 --
 
-###About this Code of Conduct:
+### About this Code of Conduct:
 
 The intention of this CoC is to help provide a safe, welcoming place for constructive discussion about OpenStreetMap and OpenStreetMap-related issues. It was forked by [@pdxmele](http://twitter.com/pdxmele), [@KathleenLD](http://twitter.com/KathleenLD), [@iandees](http://twitter.com/iandees), and [@mvexel](https://twitter.com/mvexel) from the [Puppet Community Guidelines](https://docs.puppetlabs.com/community/community_guidelines.html), which itself gives credit to the Fedora Mailing List Guidelines, 01.org, and meego.com. We also used some elements from  [GeekFeminism](http://geekfeminism.org/about/code-of-conduct/).
 
